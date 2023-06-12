@@ -1,9 +1,5 @@
 # Stable Diffusion in Docker
 
-Run the official [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion)
-releases on [Huggingface](https://huggingface.co/) in a GPU accelerated Docker
-container.
-
 ```sh
 ./build.sh run 'An impressionist painting of a parakeet eating spaghetti in the desert'
 ```
